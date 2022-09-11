@@ -1,4 +1,4 @@
-![Logo](ghibliLogoWithTitle.jpeg)
+![Logo](ghibliLogo.png)
 
 ## Index
 
